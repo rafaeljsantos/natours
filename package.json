@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Project created for learn css.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeljsantos/natours.git"
+  },
+  "author": "Rafael Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeljsantos/natours/issues"
+  },
+  "homepage": "https://github.com/rafaeljsantos/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
