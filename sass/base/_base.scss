@@ -1,0 +1,18 @@
+*,
+*::after
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    /* 1rem == 10px - just to make life easier 
+    (10/16)*100 => 10px divided by 16px(default root font-size) times 100% (document) equal to 62.5%
+    This way the user can increase or decrease website's zoom. */
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+}
